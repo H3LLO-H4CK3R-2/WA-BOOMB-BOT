@@ -15,7 +15,7 @@ ls
 
 EDIT THE FILE (add driver path)
 
-use python or python3
+use python or python3 to run this code
 
 python3 WA-BOOMB-BOT.py
 
