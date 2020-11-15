@@ -1,7 +1,7 @@
 from selenium import webdriver
 import time
 # ENTER YOUR DRIVER PATH HERE
-driver = webdriver.Chrome("C:\Program Files (x86)\chromedriver.exe")
+driver = webdriver.Chrome(" ")
 # LINK
 driver.get("https://web.whatsapp.com/")
 # SCAN THE QRCODE THEN
